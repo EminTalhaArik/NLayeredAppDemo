@@ -1,0 +1,12 @@
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\bin\Debug\Northwind.Entity.dll.config
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\bin\Debug\Northwind.Entity.dll
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\bin\Debug\Northwind.Entity.pdb
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\bin\Debug\EntityFramework.dll
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\bin\Debug\EntityFramework.xml
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\obj\Debug\Northwind.Entity.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\obj\Debug\Northwind.Entity.csproj.CopyComplete
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\obj\Debug\Northwind.Entity.dll
+D:\Belgeler\Projeler\VisualStudioRepo\NlayeredAppDemo\Northwind.Entity\obj\Debug\Northwind.Entity.pdb
