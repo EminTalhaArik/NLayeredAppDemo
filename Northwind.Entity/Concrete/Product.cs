@@ -16,3 +16,4 @@ namespace Northwind.Entity.Concrete
         public Int16 UnitsInStock { get; set; }
     }
 }
+

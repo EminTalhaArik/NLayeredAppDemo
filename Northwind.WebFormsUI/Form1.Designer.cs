@@ -44,7 +44,6 @@ namespace Northwind.WebFormsUI
             this.dgwProduct.RowTemplate.Height = 24;
             this.dgwProduct.Size = new System.Drawing.Size(776, 187);
             this.dgwProduct.TabIndex = 0;
-            this.dgwProduct.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // dataGridView2
             // 

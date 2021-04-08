@@ -1,4 +1,6 @@
-﻿using Northwind.Business.Concrete;
+﻿using Northwind.Business.Abstract;
+using Northwind.Business.Concrete;
+using Northwind.DataAcces.EntityFramework.Concrete;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,16 +18,13 @@ namespace Northwind.WebFormsUI
         public Form1()
         {
             InitializeComponent();
+            _productService = new ProductManager(new EfProductDal());
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-        }
-
+        IProductService _productService;
         private void Form1_Load(object sender, EventArgs e)
         {
-            ProductManager productManager = new ProductManager();
-            dgwProduct.DataSource = productManager.GetAll();
+            dgwProduct.DataSource = _productService.GetAll();
         }
     }
 }
